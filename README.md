@@ -41,6 +41,7 @@ This repository contains a Snort-based Intrusion Detection System (IDS) project 
 │   ├── snort.conf
 │
 ├── README.md
+├── Snort (IDS).pdf
 └── LICENSE
 ```
 
